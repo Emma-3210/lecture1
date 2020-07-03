@@ -1,0 +1,23 @@
+body {
+  font-size: 190%;
+  background-color: pink;
+  padding: 30px;
+  color: blue; }
+  .row > div {
+                padding: 7px;
+                background-color:#b28080;
+                text-align:center;
+                border: 2px dashed;
+            }
+
+@media only screen and (min-width: 600px) {
+  body {
+    background-color: pink; } }
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue; } }
+h1 {
+  text-align: center;
+  border: dotted;
+  color: grey;
+  margin-left: 30px; }

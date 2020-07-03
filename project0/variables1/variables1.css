@@ -1,0 +1,33 @@
+p {
+  color: navy;
+  position: relative;
+  font-size: 170%;
+  left: 5px; }
+
+body {
+  background-color: pink; }
+
+.sagua {
+  position: relative;
+  float: left; }
+
+.row > div {
+  padding: 20px;
+  background-color: #66b3ff;
+  border: 2px solid black;
+  text-align: center;
+  text-decoration-color: black; }
+
+.sagua1 {
+  border-radius: 50%;
+  position: absolute;
+  bottom: 6px;
+  color: white;
+  left: 150px;
+  font-size: 18px; }
+
+img {
+  border-radius: 90%;
+  align-items: center; }
+
+/*# sourceMappingURL=variables1.css.map */

@@ -1,0 +1,18 @@
+.success, .warning, .error {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  border: 2px solid black;
+  padding: 25px;
+  margin: 15px; }
+
+.success {
+  background-color: grey; }
+
+.warning {
+  background-color: yellow; }
+
+.error {
+  background-color: blue; }
+
+/*# sourceMappingURL=inheritance.css.map */
